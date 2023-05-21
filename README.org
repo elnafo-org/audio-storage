@@ -1,0 +1,12 @@
+#+author: L-Nafaryus
+#+title: README
+
+* audio-storage
+
+[[https://licensebuttons.net/l/by/3.0/80x15.png]]
+
+So, this is where I share my music and other audio files. Is it weird to share it on Github? I don't care, I will test ~git-lfs~ until the capacity of this repository is full.
+
+** License
+
+All audio files and images are licensed under the *Creative Commons Attribution 3.0 Unported License*. To view a copy of this license, see [[file:LICENSE][LICENSE]] or visit http://creativecommons.org/licenses/by/3.0/ for a human-readable summary.
