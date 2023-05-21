@@ -14,10 +14,10 @@ All audio files and images are licensed under the *Creative Commons Attribution 
 ** Current releases
 
 Singles:
-- [[2022 Breeze]]
-- [[2023 Hidden Kreiden]]
-- [[2023 Candle Fades]]
-- [[2023 Parpadeo]]
+- [[https://github.com/elnafo-org/audio-storage/releases/download/2022.Breeze/01.Breeze.flac][2022 Breeze]]
+- [[https://github.com/elnafo-org/audio-storage/releases/download/2023.Hidden.Kreiden/01.Hidden.Kreiden.flac][2023 Hidden Kreiden]]
+- [[https://github.com/elnafo-org/audio-storage/releases/download/2023.Candle.Fades/01.Candle.Fades.flac][2023 Candle Fades]]
+- [[https://github.com/elnafo-org/audio-storage/releases/download/2023.Parpadeo/01.Parpadeo.flac][2023 Parpadeo]]
 
 ** Where can you listen?
 
