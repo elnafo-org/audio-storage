@@ -10,3 +10,19 @@ So, this is where I share my music and other audio files. Is it weird to share i
 ** License
 
 All audio files and images are licensed under the *Creative Commons Attribution 3.0 Unported License*. To view a copy of this license, see [[file:LICENSE][LICENSE]] or visit http://creativecommons.org/licenses/by/3.0/ for a human-readable summary.
+
+** Current releases
+
+Singles:
+- [[2022 Breeze]]
+- [[2023 Hidden Kreiden]]
+- [[2023 Candle Fades]]
+- [[2023 Parpadeo]]
+
+** Where can you listen?
+
+- [[https://www.youtube.com/@L-Nafaryus][YouTube]]
+
+** Tags
+
+All audio tags are available on [[https://musicbrainz.org/artist/a4fbacda-78d4-4a3e-b806-49d446109006][MusicBrainz]]!
